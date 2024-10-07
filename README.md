@@ -2,14 +2,14 @@
 
 I'm currently a second-year student in the faculty of economics at Doshisha University.
 
-### Competitive Programming 🚀
+### Competitive Programming 🚀 ![AtCoder Badge](https://img.shields.io/badge/AtCoder-007ACC?style=flat&logo=atcoder&logoColor=white)
 I'm an active participant in [AtCoder](https://atcoder.jp/users/YuuuT).
 
 - **AtCoder Rank**: 
   - Algorithm: ![#89CFF0](https://img.shields.io/badge/-light%20blue-89CFF0?style=flat)
   - Heuristic: ![#89CFF0](https://img.shields.io/badge/-light%20blue-89CFF0?style=flat)
 
-![AtCoder Badge](https://img.shields.io/badge/AtCoder-007ACC?style=flat&logo=atcoder&logoColor=white)
+
 
 ### My Blog & Articles
 - [はてなブログ](https://yukun-py.hatenablog.com/)
