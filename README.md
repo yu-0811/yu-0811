@@ -1,4 +1,4 @@
-# Hi there, I'm Yu Terada 👋
+# Hi👋
 
 I'm currently a second-year student in the faculty of economics at Doshisha University.
 
