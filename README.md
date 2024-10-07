@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Yu Terada 👋
 
-<!--
-**yu-0811/yu-0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a second-year student in the faculty of economics at Doshisha University.
 
-Here are some ideas to get you started:
+### Competitive Programming 🚀
+I'm an active participant in [AtCoder](https://atcoder.jp/users/YuuuT).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AtCoder Rank**: 
+  - Algorithm: ![#89CFF0](https://img.shields.io/badge/-light%20blue-89CFF0?style=flat)
+  - Heuristic: ![#89CFF0](https://img.shields.io/badge/-light%20blue-89CFF0?style=flat)
+
+![AtCoder Badge](https://img.shields.io/badge/AtCoder-007ACC?style=flat&logo=atcoder&logoColor=white)
+
+### My Blog & Articles
+- [はてなブログ](https://yukun-py.hatenablog.com/)
+- [Qiita](https://qiita.com/yukun_py)
+
+### About This Account
+This GitHub account is primarily for my personal projects and hobbies.  
+For professional work and part-time job activities, I use a separate account.
+
+![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-0811&show_icons=true&theme=radical)
+
+### Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
