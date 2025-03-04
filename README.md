@@ -13,7 +13,7 @@ I'm an active participant in [AtCoder](https://atcoder.jp/users/YuuuT).
   - Heuristic: ![#89CFF0](https://img.shields.io/badge/-light%20blue-89CFF0?style=flat)
 
 ### My Blog & Articles
-- [Qiita](https://qiita.com/yukun_py)
+- [Qiita](https://qiita.com/yuu_kyopro)
 - [はてなブログ](https://yukun-py.hatenablog.com/)
 
 ### About This Account
