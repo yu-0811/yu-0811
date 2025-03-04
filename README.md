@@ -15,10 +15,3 @@ I'm an active participant in [AtCoder](https://atcoder.jp/users/YuuuT).
 ### My Blog & Articles
 - [Qiita](https://qiita.com/yuu_kyopro)
 - [はてなブログ](https://yukun-py.hatenablog.com/)
-
-### About This Account
-![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-0811&show_icons=true&theme=radical)
-
-### Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
