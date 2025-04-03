@@ -10,11 +10,15 @@ I'm an active participant in [AtCoder](https://atcoder.jp/users/YuuuT).
 
 ### Kaggle
 
-- FIDE & Google Efficient Chess AI Challenge : My team placed 106th out of 1120 teams. We won a bronze medal.🥉
+- FIDE & Google Efficient Chess AI Challenge
+  - **Rank** : 106th / 1120 teams
+  - **Award** : 🥉 Bronze Medal
 
 ### Signate
 
-- 第２回NEXCO東日本 渋滞予測チャレンジコンテスト : My team placed 71th out of 211 teams. We won a bronze medal.🥉
+- 第２回NEXCO東日本 渋滞予測チャレンジコンテスト
+  - **Rank** : 71st / 211 teams
+  - **Award** : 🥉 Bronze Medal
 
 ## ✍️My Blog & Articles
 - [Qiita](https://qiita.com/yuu_kyopro)
